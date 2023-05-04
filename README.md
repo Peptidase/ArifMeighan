@@ -9,7 +9,7 @@ This portfolio is a compilation of different Data Science and Data Analysis proj
 ## Projects
 
 
-<img align="left" width="250" height="150" src="./img/Steam.jpg"> **[Steam Game Recommendation system utilizing Collaborative Filtering](./Documents/ALS.pdf)**
+<img align="left" width="250" height="150" src="./img/Steam.jpg"> **[Steam Game Recommendation system utilizing Collaborative Filtering]()**
 
 Utilized alternating least squares algorithm to model the relationship between users and products. The algorithm is capable of providing novel and intuitive game recommendations based on a user's preference for genre, publisher, and developer. It is capable of cold start recommendation where a user has no background of activity to recommend from. Groups of users with similar preferences are recommended games within their group that align with their user-product interaction tuple.
 
@@ -21,7 +21,7 @@ A project based on measuring the performance of graph neural networks on the cor
 
 #
 
-<img align="left" width="250" height="150" src="./img/Greaterlondon.png"> **[Geospatial Analysis of Crime in relation to housing prices in London](./Documents/Geospatial.ipynb)**
+<img align="left" width="250" height="150" src="./img/Greaterlondon.png"> **[Geospatial Analysis of Crime in relation to housing prices in London](./Documents/Geospatial.html)**
 
 I was interested in analyzing the possible correlation between housing prices and the level of crimes. I observed that ASB (Anti-Social Behaviour) was a good indicator of housing prices but not rental prices. Utilized geospatial vector and raster structures to create choropleth visualizations of the districts with their respective crime statistics.
 
@@ -32,4 +32,7 @@ I was interested in analyzing the possible correlation between housing prices an
 
 - **Methodologies**: Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Explainable AI, A/B Testing and Experimentation Design, Big Data Analytics
 - **Languages**: Python (Pandas, NumPy, Scikit-Learn, SciPy, Keras, Matplotlib), R (Dplyr, Tidyr, Caret, Ggplot2), SQL, C++
-- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), Flask, MS Excel
+- **Tools**: MySQL, Git, PySpark, Google Console, Amazon Web services (AWS)
+
+
+## Currently Reading 
