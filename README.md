@@ -9,19 +9,19 @@ This portfolio is a compilation of different Data Science and Data Analysis proj
 ## Projects
 
 
-<img align="left" width="250" height="150" src="./img/Steam.jpg"> **[Steam Game Recommendation system utilizing Collaborative Filtering]()**
+<img align="left" width="250" height="150" src="./img/Steam.jpg"> **[Steam Game Recommendation system utilizing Collaborative Filtering](https://github.com/Peptidase/ArifMeighan/blob/main/Documents/Distributed_Project_Draft_Final__Copy_for_portfolio_.pdf)**
 
 Utilized alternating least squares algorithm to model the relationship between users and products. The algorithm is capable of providing novel and intuitive game recommendations based on a user's preference for genre, publisher, and developer. It is capable of cold start recommendation where a user has no background of activity to recommend from. Groups of users with similar preferences are recommended games within their group that align with their user-product interaction tuple.
 
 #
 
-<img align="left" width="250" height="150" src="./img/GraphViz.png"> **[Graph Neural Network model comparison](./Documents/GNN.pdf)**
+<img align="left" width="250" height="150" src="./img/GraphViz.png"> **[Graph Neural Network model comparison]([./Documents/GNN.pdf](https://github.com/Peptidase/ArifMeighan/blob/main/Documents/ST456Group8__Copy_for_portfolio_.pdf))**
 
 A project based on measuring the performance of graph neural networks on the coras citation dataset. Utilizing a dataset with sparse and densely connected nodes allows for an extensive testing environment to observe how the hyperparameters, aggregation methods, and architecture of graph neural networks affect the performance of a model.
 
 #
 
-<img align="left" width="250" height="150" src="./img/Greaterlondon.png"> **[Geospatial Analysis of Crime in relation to housing prices in London](./Documents/Geospatial.html)**
+<img align="left" width="250" height="150" src="./img/Greaterlondon.png"> **[Geospatial Analysis of Crime in relation to housing prices in London](https://github.com/Peptidase/ArifMeighan/blob/main/Documents/Geospatial.html)**
 
 I was interested in analyzing the possible correlation between housing prices and the level of crimes. I observed that ASB (Anti-Social Behaviour) was a good indicator of housing prices but not rental prices. Utilized geospatial vector and raster structures to create choropleth visualizations of the districts with their respective crime statistics.
 
