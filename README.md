@@ -1,5 +1,4 @@
 ## Data Science Portfolio - Arif Meighan
----
 
 This Portfolio is a compilation of different Data Science and Data Analysis projects I have contributed to. It pertains several academic, hobby and passion projects from which I have learnt to expand my understanding of my quantitative studies further. 
 Please contact me if any questions arise from the content shown on the documents:
@@ -7,11 +6,9 @@ Please contact me if any questions arise from the content shown on the documents
 - **Email**: [ArifMeighan@hotmail.co.uk](ArifMeighan@hotmail.co.uk)
 - **LinkedIn**: [linkedin.com/arif-meighan](https://www.linkedin.com/in/arif-meighan/)
 
----
 
 ## Projects
 
----
 
 <img align="left" width="250" height="150" src=""> **[Steam Game Recommendation system utilizing Collaborative Filtering]()**
 
@@ -19,12 +16,13 @@ Utilized alternating least squares algorithm to model relationship between users
 
 #
 
-<img align="left" width="250" height="150" src=""> **[](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src=""> **[Graph Neural Network model comparison]()**
 
-awdadwa
+A project based on measuring the performance of graph neural network on the coras citation dataset. Utilizing a dataset with sparse and densely connected nodes allows for an extensive testing enviroment to observe how the hyperparameters, aggregation methods and architecture of graph neural networks affects the performance of a model. 
+
 #
 
-<img align="left" width="250" height="150" src=""> **[](https://github.com/archd3sai/News-Articles-Recommendation)**
+<img align="left" width="250" height="150" src=""> **[Geospatial Analysis of ]()**
  
 awdwadad
 
