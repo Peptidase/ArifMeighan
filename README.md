@@ -21,9 +21,9 @@ A project based on measuring the performance of graph neural networks on the cor
 
 #
 
-<img align="left" width="250" height="150" src="./img/Greaterlondon.png"> **[Geospatial Analysis of Crime in relation to housing prices in London](https://github.com/Peptidase/ArifMeighan/blob/main/Documents/Geospatial.html)**
+<img align="left" width="250" height="150" src="./img/Greaterlondon.png"> **[Geospatial Analysis of Crime in relation to housing prices in London](https://github.com/Peptidase/ArifMeighan/blob/main/Documents/Geospatial.pdf)**
 
-I was interested in analyzing the possible correlation between housing prices and the level of crimes. I observed that ASB (Anti-Social Behaviour) was a good indicator of housing prices but not rental prices. Utilized geospatial vector and raster structures to create choropleth visualizations of the districts with their respective crime statistics.
+I was interested in analyzing the possible correlation between housing prices and the level of crimes. I observed that ASB (Anti-Social Behaviour) was a good indicator of housing prices but not rental prices. Utilized geospatial vector and raster structures to create choropleth visualizations of the districts with their respective crime statistics. In order to view download the file and open to view the file as a pdf.
 
 <br />
 
