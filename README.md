@@ -35,4 +35,4 @@ I was interested in analyzing the possible correlation between housing prices an
 - **Tools**: MySQL, Git, PySpark, Google Console, Amazon Web services (AWS)
 
 
-## Currently Reading 
+
